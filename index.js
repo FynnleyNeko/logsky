@@ -2,6 +2,7 @@
 
 // Imports
 var http = require('http'),
+  https = require('https'),
   connect = require('connect'),
   httpProxy = require('http-proxy'),
   transformerProxy = require('transformer-proxy');
