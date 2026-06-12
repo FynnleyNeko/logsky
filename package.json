@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "connect": "^3.7.0",
+    "http-proxy": "^1.18.1",
+    "ipfs-only-hash": "^4.0.0",
+    "multiformats": "^13.4.2",
+    "transformer-proxy": "^0.3.5"
+  }
+}
